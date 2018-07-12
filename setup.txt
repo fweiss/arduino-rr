@@ -1,0 +1,7 @@
+Install AVR
+Install CDT (optional?)
+Install Eclipse plugin (v2.2)
+
+linkd \arduino "\Program Files (x86)\Arduino"
+
+Window > Preferences > Arduino > Path to IDE
